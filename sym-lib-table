@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "zigbee_coordinator")(type "KiCad")(uri "${KIPRJMOD}/zigbee_coordinator.kicad_sym")(options "")(descr ""))
+)

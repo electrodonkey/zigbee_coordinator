@@ -1,2 +1,2 @@
-# zigbee_coordinator
-TI CC2652 Zigbee coordinator
+# BHive
+TI CC2652 Zigbee coordinator/node in a breakout board form
